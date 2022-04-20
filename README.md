@@ -13,3 +13,5 @@
 3) streamlit run main_app.py
 
 To run jupyter notebook, just type `jupyter notebook` into cmd with within activated virtualenv
+
+Note - data obtained from public Kaggle dataset: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?datasetId=383055&sortBy=voteCount
